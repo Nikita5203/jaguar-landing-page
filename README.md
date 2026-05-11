@@ -1,4 +1,4 @@
-# jaguar-landing-page 🚘
+# Jaguar-landing-page 🚘
 
 A modern Jaguar-inspired landing page created using HTML and CSS.
 
